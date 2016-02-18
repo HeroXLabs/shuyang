@@ -311,3 +311,13 @@ section.contact button[type=submit] {
       /* line 15, /home/deployer/middle_girl_sites/sites/shuyang-international/source/assets/stylesheets/_map.css.scss.erb */
       #gmap .infowin a:hover {
         text-decoration: underline; }
+
+
+
+
+#gmap2 {
+  height: 400px;
+  background-image: url('../images/map.jpg');
+  background-size: cover;
+  background-position: center center;
+}
